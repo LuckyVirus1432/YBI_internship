@@ -1,8 +1,8 @@
-# YBI_internship
+## YBI_internship
 
-**Title of Project**
-  Wine Quality Prediction
--------------
+**Title of Project: **
+Wine Quality Prediction
+-----------------------------------------------------------------------------------------------------------
 
 ## **Objective**
 To predict the quality of the wine with the help of support vector machine.

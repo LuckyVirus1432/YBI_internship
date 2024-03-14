@@ -1,7 +1,6 @@
 ## YBI_internship
 
-**Title of Project: **
-Wine Quality Prediction
+**Title of Project: Wine Quality Prediction
 -----------------------------------------------------------------------------------------------------------
 
 ## **Objective**
